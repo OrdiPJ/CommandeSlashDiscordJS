@@ -1,0 +1,22 @@
+{
+  "name": "commandeslashdiscordjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrdiPJ/CommandeSlashDiscordJS.git"
+  },
+  "author": "OrdiPJ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrdiPJ/CommandeSlashDiscordJS/issues"
+  },
+  "homepage": "https://github.com/OrdiPJ/CommandeSlashDiscordJS#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
